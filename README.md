@@ -159,7 +159,7 @@ FinScope is a **full-stack financial analysis platform** that provides:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/harshini/finscope.git
+git clone https://github.com/Harshiniat/FinScope.git
 cd finscope
 ```
 
@@ -534,7 +534,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Quick Start
 ```bash
-git clone https://github.com/harshini/finscope.git
+git clone https://github.com/Harshiniat/FinScope.git
 cd finscope
 pip install -r requirements.txt
 streamlit run app.py
@@ -543,7 +543,7 @@ streamlit run app.py
 ### Contact
 - **Developer**: Harshini
 - **Project**: FinScope - Financial Analysis Platform
-- **GitHub**: [github.com/harshini/finscope](https://github.com/harshini/finscope)
+- **GitHub**: [github.com/Harshiniat/FinScope](https://github.com/Harshiniat/FinScope)
 
 **Built with ❤️ using Python and Streamlit**
 
